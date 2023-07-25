@@ -1,6 +1,9 @@
 # Laravel-breeze study
 ### laravel과 breeze로 react typescript 생성 및 구동 테스트
 
+### - 버전정보
+- laravel 10
+- php8.2-fpm
 ### - 기본 설치
 - composer는 기본적으로 설치[(설치하기)](https://getcomposer.org/doc/00-intro.md)
 ```shell
